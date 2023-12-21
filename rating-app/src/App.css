@@ -43,3 +43,10 @@ body{
 .read-the-docs {
   color: #888;
 }
+
+.center{
+  display: flex;
+  align-items: center  ;
+  flex-direction: column;
+  text-align: center;
+}
